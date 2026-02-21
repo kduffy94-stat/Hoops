@@ -1,2 +1,0 @@
-# Hoops
-Basketball manager game
